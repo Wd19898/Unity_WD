@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "ffe66bjVQd3jSFHqWhKuEiOzrtR3LdYvsnkfR61aZGHzxbjZOualRuMw7ITlaEb8W3rgol77j1yT3Y09cWXsmQ==",
+  "success": true,
+  "projectFilePath": "D:\\vipskill\\Lesson\\Hellocsharp\\Hellocsharp.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\wudan\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\7.0.15\\microsoft.windowsdesktop.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\wudan\\.nuget\\packages\\microsoft.netcore.app.ref\\7.0.15\\microsoft.netcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\wudan\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\7.0.15\\microsoft.aspnetcore.app.ref.7.0.15.nupkg.sha512",
+    "C:\\Users\\wudan\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\7.0.15\\microsoft.netcore.app.host.win-x64.7.0.15.nupkg.sha512"
+  ],
+  "logs": []
+}
